@@ -8,3 +8,6 @@ Versão web do JARVIS 3D (globo holográfico, Supervisor Victor em 3D, microfone
   (Configurações → URL do n8n e token; o token fica salvo só no próprio navegador, nunca neste site).
 
 Créditos dos dados do globo: NASA Earth at Night e Blue Marble (domínio público); cidades GeoNames (CC BY 4.0).
+
+> **Nov/2026:** o endereço oficial do JARVIS passou a ser o cockpit do PC — https://jarvis-pc.paylessstore.online
+> (dados reais, login Cloudflare). Este site do Vercel agora só redireciona para lá (`vercel.json` + `index.html`).
